@@ -12,3 +12,7 @@ I dont make a Start Menu neither a Game Over menu, sorry for that.
 
 
 Leonardo Zanotti
+
+Akkanoiv #1.0 - The start game folder
+
+Akkanoiv #1.1 - Rename and rewrite some files for best understanding
